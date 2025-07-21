@@ -6,11 +6,11 @@ Scandium SR2/v0.21.2 Opendaylight Docker Containers.
 
 ## Base
 
-`docker-compose up -d`
+`docker compose up -d`
 
 ## Openflow Enabled Controller
 
-`docker-compose -f docker-compose.openflow.yml up -d`
+`docker compose -f docker-compose.openflow.yml up -d`
 
 # Build and Test Images
 
